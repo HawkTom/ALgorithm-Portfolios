@@ -1,0 +1,276 @@
+Function Number:1
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:1
+Run: 1	The Best fitness is -0.0000309972215293
+Function Number:1
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:1
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:1
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:1
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:2
+Run: 1	The Best fitness is -0.0000000002631406
+Function Number:2
+Run: 1	The Best fitness is -0.0234264571987184
+Function Number:2
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:2
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:2
+Run: 1	The Best fitness is -0.0000000800714555
+Function Number:2
+Run: 1	The Best fitness is -0.0000000000009140
+Function Number:3
+Run: 1	The Best fitness is -0.0018343658164080
+Function Number:3
+Run: 1	The Best fitness is -642.7876195868033165
+Function Number:3
+Run: 1	The Best fitness is -220.2942915007880913
+Function Number:3
+Run: 1	The Best fitness is -3.5963901201483743
+Function Number:3
+Run: 1	The Best fitness is -0.0061664689412787
+Function Number:3
+Run: 1	The Best fitness is -0.0017573305640883
+Function Number:4
+Run: 1	The Best fitness is -0.0090888034895549
+Function Number:4
+Run: 1	The Best fitness is -2.5202072615733311
+Function Number:4
+Run: 1	The Best fitness is -2.5081135973754445
+Function Number:4
+Run: 1	The Best fitness is -3.6629084909365508
+Function Number:4
+Run: 1	The Best fitness is -0.0077914693819467
+Function Number:4
+Run: 1	The Best fitness is -0.0049744949080507
+Function Number:5
+Run: 1	The Best fitness is -21.0422349843937440
+Function Number:5
+Run: 1	The Best fitness is -27.1335499568978911
+Function Number:5
+Run: 1	The Best fitness is -120.3352087512024013
+Function Number:5
+Run: 1	The Best fitness is -22.5838398798103270
+Function Number:5
+Run: 1	The Best fitness is -13.9893128390757688
+Function Number:5
+Run: 1	The Best fitness is -10.2195886485965932
+Function Number:6
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:6
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:6
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:6
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:6
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:6
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:7
+Run: 1	The Best fitness is -0.0012905538708658
+Function Number:7
+Run: 1	The Best fitness is -0.0753157352947030
+Function Number:7
+Run: 1	The Best fitness is -0.0118473682837033
+Function Number:7
+Run: 1	The Best fitness is -0.0085278243874159
+Function Number:7
+Run: 1	The Best fitness is -0.0055488681721697
+Function Number:7
+Run: 1	The Best fitness is -0.0040218374557295
+Function Number:8
+Run: 1	The Best fitness is -1421.4532599603608105
+Function Number:8
+Run: 1	The Best fitness is -1642.9509706741628179
+Function Number:8
+Run: 1	The Best fitness is -1421.2732137314178544
+Function Number:8
+Run: 1	The Best fitness is -1365.0837020295311959
+Function Number:8
+Run: 1	The Best fitness is -4935.2549939986265599
+Function Number:8
+Run: 1	The Best fitness is -4071.1104701323729387
+Function Number:9
+Run: 1	The Best fitness is -16.9142989327669113
+Function Number:9
+Run: 1	The Best fitness is -205.4545500690746564
+Function Number:9
+Run: 1	The Best fitness is -13.8759555364773028
+Function Number:9
+Run: 1	The Best fitness is -13.4613180775648420
+Function Number:9
+Run: 1	The Best fitness is -49.7478873175783960
+Function Number:9
+Run: 1	The Best fitness is -41.7882249364702290
+Function Number:10
+Run: 1	The Best fitness is -0.0000000000000684
+Function Number:10
+Run: 1	The Best fitness is -0.0021667547607942
+Function Number:10
+Run: 1	The Best fitness is -0.0000000000000080
+Function Number:10
+Run: 1	The Best fitness is -0.0000000000031912
+Function Number:10
+Run: 1	The Best fitness is -0.0000000000000080
+Function Number:10
+Run: 1	The Best fitness is -0.0000000000000329
+Function Number:11
+Run: 1	The Best fitness is -0.0073960403341150
+Function Number:11
+Run: 1	The Best fitness is -0.0000349075592462
+Function Number:11
+Run: 1	The Best fitness is -0.0073960469625823
+Function Number:11
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:11
+Run: 1	The Best fitness is -0.0440584313862146
+Function Number:11
+Run: 1	The Best fitness is -0.0073960403341150
+Function Number:12
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:12
+Run: 1	The Best fitness is -0.0000123778575945
+Function Number:12
+Run: 1	The Best fitness is -0.0000000000001646
+Function Number:12
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:12
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:12
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:13
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:13
+Run: 1	The Best fitness is -0.0018924855079907
+Function Number:13
+Run: 1	The Best fitness is -0.0109873658358844
+Function Number:13
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:13
+Run: 1	The Best fitness is -0.0109873658358838
+Function Number:13
+Run: 1	The Best fitness is -0.0000000000000000
+Function Number:14
+Run: 1	The Best fitness is -0.0000000000000002
+Function Number:14
+Run: 1	The Best fitness is -0.0000000000000002
+Function Number:14
+Run: 1	The Best fitness is -0.0000000000000002
+Function Number:14
+Run: 1	The Best fitness is -0.0000000000000002
+Function Number:14
+Run: 1	The Best fitness is -0.0000000000000002
+Function Number:14
+Run: 1	The Best fitness is -0.0000000000000002
+Function Number:15
+Run: 1	The Best fitness is 0.0000000000008503
+Function Number:15
+Run: 1	The Best fitness is 0.0000000000008503
+Function Number:15
+Run: 1	The Best fitness is -0.0004014683188482
+Function Number:15
+Run: 1	The Best fitness is -0.0000000000479180
+Function Number:15
+Run: 1	The Best fitness is 0.0000000000008503
+Function Number:15
+Run: 1	The Best fitness is 0.0000000000008503
+Function Number:16
+Run: 1	The Best fitness is 0.0000000000000009
+Function Number:16
+Run: 1	The Best fitness is 0.0000000000000009
+Function Number:16
+Run: 1	The Best fitness is 0.0000000000000009
+Function Number:16
+Run: 1	The Best fitness is 0.0000000000000009
+Function Number:16
+Run: 1	The Best fitness is 0.0000000000000009
+Function Number:16
+Run: 1	The Best fitness is 0.0000000000000009
+Function Number:17
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:17
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:17
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:17
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:17
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:17
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:18
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:18
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:18
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:18
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:18
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:18
+Run: 1	The Best fitness is 0.0000000000000000
+Function Number:19
+Run: 1	The Best fitness is -0.0000000000000040
+Function Number:19
+Run: 1	The Best fitness is -0.0000000000000040
+Function Number:19
+Run: 1	The Best fitness is -0.0000000000000040
+Function Number:19
+Run: 1	The Best fitness is -0.0000000000000040
+Function Number:19
+Run: 1	The Best fitness is -0.0000000000000040
+Function Number:19
+Run: 1	The Best fitness is -0.0000000000000040
+Function Number:20
+Run: 1	The Best fitness is -0.0000000000000542
+Function Number:20
+Run: 1	The Best fitness is -0.0000000000000542
+Function Number:20
+Run: 1	The Best fitness is -0.0000000000000542
+Function Number:20
+Run: 1	The Best fitness is -0.0000000000000542
+Function Number:20
+Run: 1	The Best fitness is -0.0000000000000542
+Function Number:20
+Run: 1	The Best fitness is -0.0000000000000542
+Function Number:21
+Run: 1	The Best fitness is -10.0377086195794494
+Function Number:21
+Run: 1	The Best fitness is -10.0377086195794494
+Function Number:21
+Run: 1	The Best fitness is -10.0377086195794494
+Function Number:21
+Run: 1	The Best fitness is -10.0377086195794494
+Function Number:21
+Run: 1	The Best fitness is -10.0377086195794494
+Function Number:21
+Run: 1	The Best fitness is -10.0377086195794494
+Function Number:22
+Run: 1	The Best fitness is -10.0503833861495870
+Function Number:22
+Run: 1	The Best fitness is -10.0503833861495870
+Function Number:22
+Run: 1	The Best fitness is -10.0503833861495870
+Function Number:22
+Run: 1	The Best fitness is -10.0503833861495870
+Function Number:22
+Run: 1	The Best fitness is -10.0503833861495870
+Function Number:22
+Run: 1	The Best fitness is -10.0503833861495870
+Function Number:23
+Run: 1	The Best fitness is -10.0784208993809479
+Function Number:23
+Run: 1	The Best fitness is -10.0784208993809479
+Function Number:23
+Run: 1	The Best fitness is -10.0784208993809479
+Function Number:23
+Run: 1	The Best fitness is -10.0784208993809479
+Function Number:23
+Run: 1	The Best fitness is -10.0784208993809479
+Function Number:23
+Run: 1	The Best fitness is -10.0784208993809479
